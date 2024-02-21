@@ -1,0 +1,9 @@
+Benefits of Node.js
+
+1.Node.js allows to use javascript for both server-side and client-side programming.
+2.It allows efficient handling of concurrent connections for real time application.
+3.Handles large numbers of simultaneous connections with minimal consumption.
+4.Vast collection of open-source libraries and frameworks available through npm.
+5.Built on the speedy V8 JavaScript engine, offering high performance.
+6.Runs on various operating systems without modification.
+7.Well-suited for building and managing microservices-based architectures.
