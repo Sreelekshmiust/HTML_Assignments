@@ -1,0 +1,74 @@
+.background-img {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.4;
+    object-fit: cover;
+}
+
+.maindiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
+
+.maindiv form {
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 560px;
+    width: 90%;
+    box-sizing: border-box;
+}
+
+.maindiv h2 {
+    margin-bottom: 1.5em;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: auto;
+    width: 30%;
+    height: 25px;
+}
+
+p {
+    text-align: center;
+} 
+
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
+.login form {
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 490px;
+    width: 90%;
+    box-sizing: border-box;
+    text-align: center;
+}
+.profile-container{
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    margin-top: 160px;
+}
+.profile-container h2{
+    text-align: center;
+}
+.profile-container form{
+    background-color:rgba(255, 255, 255, 0.623); 
+    padding: 20px;
+}
+
+
+
